@@ -17,4 +17,4 @@ class LinearRegression(object):
 
   def predict(_input):
     pass
-
+  
